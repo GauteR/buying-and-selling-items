@@ -24,7 +24,7 @@ Use this document when you need details on how to research prices, write honest 
 
 ## Marketplaces
 
-Generic tips – no APIs or automated listing creation. The agent only suggests text; the user publishes.
+Generic tips – no APIs or automated listing creation. The agent only suggests text; the user publishes. Detailed requirements and limits per marketplace are in [marketplace-requirements.md](marketplace-requirements.md).
 
 - **Finn** (Norway): Often Norwegian language; local currency (NOK). Popular for general second-hand; categories and location matter.
 - **eBay**: Often international; multiple currencies. Buyers may expect detailed descriptions and photos; returns and seller ratings are important.
