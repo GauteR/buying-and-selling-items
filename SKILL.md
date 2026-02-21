@@ -4,7 +4,7 @@ version: 1.0.0
 description: Investigates items and prices for marketplace buying and selling; suggests listing descriptions from images and points out flaws and prices.
 ---
 
-# Buying and selling on marketplaces
+# AI Agent Skill for buying and selling items on marketplaces
 
 This skill helps users research items, find prices, and get listing suggestions for marketplaces. All output is in chat only; the agent never posts or writes to any platform or file.
 

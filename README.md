@@ -1,4 +1,4 @@
-# Buying and selling (marketplaces) skill
+# AI Agent Skill for buying and selling items on marketplaces
 
 Agent skill for researching items and prices, suggesting listing text from images, and pointing out flaws when buying or selling on marketplaces (e.g. Finn, eBay, Facebook Marketplace, Blocket).
 
