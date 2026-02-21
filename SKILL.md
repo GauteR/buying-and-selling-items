@@ -1,5 +1,5 @@
 ---
-name: buying-and-selling-marketplaces
+name: buying-and-selling-items
 version: 1.0.0
 description: Investigates items and prices for marketplace buying and selling; suggests listing descriptions from images and points out flaws and prices.
 ---
