@@ -1,6 +1,7 @@
 ---
 name: buying-and-selling-marketplaces
-description: Investigates items and prices for marketplace buying and selling; suggests listing descriptions from images and points out flaws and prices. Only gives suggestions in chat – never posts or writes to any platform or file. When something is unclear, asks the user before continuing. Use when the user asks about selling, buying, pricing, listing text, or evaluating items for marketplaces (e.g. Finn, eBay, Facebook Marketplace, Blocket).
+version: 1.0.0
+description: Investigates items and prices for marketplace buying and selling; suggests listing descriptions from images and points out flaws and prices.
 ---
 
 # Buying and selling on marketplaces
